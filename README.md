@@ -87,4 +87,4 @@ Again, add tasks, questions, or suggestions to for what you'd like to see in thi
 
 If there's an issue on the repo with the code as is, create an issue on the repo!
 
-#### Happy hacking! Made with ❤️ from Ali.
+#### Happy hacking! Made with ❤️ from Simplata.
